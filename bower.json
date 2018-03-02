@@ -1,0 +1,20 @@
+{
+  "name": "nacionelectrica",
+  "version": "1.0.0",
+  "authors": [
+    "Stiven Martínez <stivenmart@gmail.com>"
+  ],
+  "description": "nacionelectrica",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
